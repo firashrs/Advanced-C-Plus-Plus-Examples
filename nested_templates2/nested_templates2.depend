@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1675412466 source:c:\users\pc\documents\cpp_projects\nested_templates2\main.cpp
+	<iostream>
+	<ring.h>
+
+1675412583 c:\users\pc\documents\cpp_projects\nested_templates2\include\ring.h
+	<iostream>
+

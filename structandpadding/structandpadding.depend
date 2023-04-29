@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674833517 source:c:\users\pc\documents\cpp_projects\structandpadding\main.cpp
+	<iostream>
+	<fstream>
+

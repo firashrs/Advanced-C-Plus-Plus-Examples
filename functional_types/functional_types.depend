@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1675959141 source:c:\users\pc\documents\cpp_projects\functional_types\main.cpp
+	<iostream>
+	<functional>
+	<vector>
+	<algorithm>
+
